@@ -41,11 +41,11 @@ jobs:
 
       # Test を実行
       - name: Run Test
-        run: dotnet test GrasshopperCISampleTests\bin\Release\GrasshopperCISampleTests.dll
+        run: dotnet test CISampleTests\bin\Release\CISampleTests.dll
 
       # 対象パスにあるファイルを GitHub にアップロードする
       - name: Upload build as artifact
         uses: actions/upload-artifact@v2
         with:
           name: GrasshopperComponent
-          path: ./GrasshopperCISample/bin/GrasshopperCISample.gha
+          path: ./CISample/bin/CISample.gha
