@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github"
+    "\\.github",
+    "\\CISample"
   ],
-  "SelectedNode": "\\.github\\BuildGH.yml",
+  "SelectedNode": "\\CISample\\Util.cs",
   "PreviewInSolutionExplorer": false
 }
