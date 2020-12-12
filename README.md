@@ -1,0 +1,1 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2915f2d2f8d546febc1c56ca4841a72b)](https://www.codacy.com/gh/yishizu/CISample/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yishizu/CISample&amp;utm_campaign=Badge_Grade)
